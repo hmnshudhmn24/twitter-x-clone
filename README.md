@@ -1,12 +1,12 @@
 # 𝕏 Twitter Clone
 
-> A pixel-perfect Twitter/X UI clone built with React.
+> A pixel-perfect Twitter/X UI clone built with React. Features a dark theme, real-time likes & retweets, tweet composer, trending topics, and a who-to-follow sidebar.
 
 ![React](https://img.shields.io/badge/React-18.2.0-61DAFB?logo=react&logoColor=white&style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)
 
----
+
 
 ## ✨ Features
 
@@ -37,7 +37,7 @@
 - Hashtag & mention **syntax highlighting**
 - Hover states on all interactive elements
 
----
+
 
 ## 🗂 Project Structure
 
@@ -70,7 +70,7 @@ twitter-x-clone/
 └── README.md
 ```
 
----
+
 
 ## 🚀 Getting Started
 
@@ -120,7 +120,7 @@ npm install --save-dev gh-pages
 npm run deploy
 ```
 
----
+
 
 ## 🛠️ Built With
 
@@ -131,18 +131,3 @@ npm run deploy
 | CSS Custom Properties | Design tokens / theming |
 | React Hooks (useState) | State management |
 
----
-
-## 🤝 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first.
-
----
-
-## 📄 License
-
-[MIT](LICENSE) — free to use, modify, and distribute.
-
----
-
-Built with ❤️ using **Claude AI** by Anthropic
