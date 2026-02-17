@@ -3,9 +3,6 @@
 > A pixel-perfect Twitter/X UI clone built with React. Features a dark theme, real-time likes & retweets, tweet composer, trending topics, and a who-to-follow sidebar.
 
 ![React](https://img.shields.io/badge/React-18.2.0-61DAFB?logo=react&logoColor=white&style=flat-square)
-![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)
-
 
 
 ## ✨ Features
