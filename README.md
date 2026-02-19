@@ -1,4 +1,4 @@
-# 𝕏 Twitter Clone
+# Twitter Clone
 
 > A pixel-perfect Twitter/X UI clone built with React. Features a dark theme, real-time likes & retweets, tweet composer, trending topics, and a who-to-follow sidebar.
 
