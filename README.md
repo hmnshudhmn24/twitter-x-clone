@@ -101,7 +101,6 @@ npm run build
 
 The `build/` folder is ready to be deployed.
 
----
 
 ## 🌐 Deploy to GitHub Pages
 
